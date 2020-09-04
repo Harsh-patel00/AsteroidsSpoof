@@ -6,5 +6,5 @@ This is a spoof of Asteroids made in Unity, under the Guidance of Dr. Tim "Dr. T
 ### Controls
 
   - **Shoot**: *Left Control*
-  - **Move Forward**: *Space* /b
-  - **Rotate**: *Right/Left* /b
+  - **Move Forward**: *Space*
+  - **Rotate**: *Right/Left*
